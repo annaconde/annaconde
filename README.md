@@ -22,7 +22,8 @@ Estou estudando as principais linguagens do Front-end: Html, CSS e Javascript.
 
 </div>
 
-##
+  ![Snake animation](https://github.com/annaconde/annaconde/blob/output/github-contribution-grid-snake.svg)
+
 
 
 <!---
