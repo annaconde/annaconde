@@ -6,12 +6,16 @@ Estou estudando as principais linguagens do Front-end: Html, CSS e Javascript.
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=annaconde&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annaconde&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+  
+    ![Snake animation](https://github.com/annaconde/annaconde/blob/output/github-contribution-grid-snake.svg)
+##
 
-<p></p>
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-
+<div align="center">
+  <img align="center" alt="Anna-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Anna-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Anna-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+ </div>
+  
 ##
 
 <div align="center">
@@ -22,7 +26,6 @@ Estou estudando as principais linguagens do Front-end: Html, CSS e Javascript.
 
 </div>
 
-  ![Snake animation](https://github.com/annaconde/annaconde/blob/output/github-contribution-grid-snake.svg)
 
 
 
