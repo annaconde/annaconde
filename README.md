@@ -6,8 +6,7 @@ Estou estudando as principais linguagens do Front-end: Html, CSS e Javascript.
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=annaconde&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annaconde&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-  
-    ![Snake animation](https://github.com/annaconde/annaconde/blob/output/github-contribution-grid-snake.svg)
+ 
 ##
 
 <div align="center">
@@ -25,6 +24,9 @@ Estou estudando as principais linguagens do Front-end: Html, CSS e Javascript.
   <a href="https://www.linkedin.com/in/anna-carolina-cond%C3%A9-saturnino-07563a176" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 </div>
+  
+      ![Snake animation](https://github.com/annaconde/annaconde/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
