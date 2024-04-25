@@ -1,5 +1,4 @@
-## Olá:relaxed:, eu sou Anna Condé!
-Estou estudando as principais linguagens do Front-end: Html, CSS e Javascript.
+## Hi, I'm Anna Carolina Teixeira.
 
 <div align="center">
   <a href="https://github.com/annaconde">
