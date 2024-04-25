@@ -1,4 +1,6 @@
 ## Hi, I'm Anna Carolina Teixeira.
+I'm currently delving deeper into my knowledge of JavaScript and React. I want to become a Front-End Developer
+##
 
 <div align="center">
   <a href="https://github.com/annaconde">
